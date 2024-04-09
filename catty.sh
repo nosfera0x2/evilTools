@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Start of the IP range
-start=1
+start=100
 
 # End of the IP range
-end=254
+end=150
 
 # The IP address base
 base="10.0.141."
